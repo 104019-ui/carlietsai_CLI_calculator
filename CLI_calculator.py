@@ -1,5 +1,4 @@
 # CLI Calculator Project
-# Name: Carlie Tsai
 
 def calculate(num1, num2, operator, decimal_mode=True, remainder_mode=False):
     """Performs a calculation based on the given operator and modes."""
